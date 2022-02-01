@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-  telegram: @nikitahummus
   email: nik44226269@yandex.ru
 
 <!---
