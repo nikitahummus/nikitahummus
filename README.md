@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nikita
-- 🤖 My technologies: JS, React, Redux, Express, Node.js, HTML, CSS, PostgresQL, Sequelize, 
   email: starichenkovnik@gmail.com
 
 <!---
